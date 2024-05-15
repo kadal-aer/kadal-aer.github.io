@@ -36,7 +36,7 @@ export const navBarConfig: NavBarConfig = {
     },
     {
       name: 'Rest Api',
-      url: 'https://api.rynxd.link',
+      url: 'https://api-floobot.cyclic.app',
       external: true,
     },
   ],
