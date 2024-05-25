@@ -1,7 +1,7 @@
 ---
 title: Simple Baileys For WhatsApp Bot
 published: 2024-04-25
-description: "Documentation For WhatsApp Baileys- @whiskeysockets/baileys"
+description: "Documentation For @rynxd/baileys"
 image: "https://opengraph.githubassets.com/941f8dcdc5335e30451fba93e0628478e421e991e3ab2735f0af7a409c6e6780/WhiskeySockets/Baileys"
 tags: ["Bot WhatsApp","Baileys"]
 category: Guides
@@ -32,7 +32,15 @@ Thank you to [@pokearaujo](https://github.com/pokearaujo/multidevice) for writin
 The original repository had to be removed by the original author - we now continue development in this repository here.
 This is the only official repository and is maintained by the community.
  **Join the Discord [here](https://discord.gg/WeJM5FP9GG)**
- 
+
+## Installation
+
+Run this command replacing @whiskeysockets/baileys on your node package
+
+ ```bash
+npm install @whiskeysockets/baileys@npm:@rynxd/baileys
+```
+
 ## Example
 
 Do check out & run [example.ts](Example/example.ts) to see an example usage of the library.
